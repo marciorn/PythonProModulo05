@@ -9,3 +9,4 @@ No arquivo "modulo_05_main.py" está a estrutura principal que pede o input (dad
 
 ### Observações Importantes
 Os arquivos "Modulo05ExercicioResposta.docx" e "Modulo05ExercicioTeste.docx" trazem os procedimentos de realização de criação do repositório e teste realizado para validação do código, respectivamente.
+Os arquivos modulo_05_branchdevelop.py e Modulo05ExercicioRespostaDevelop.docx foram utilizados para a realização do commit na branch develop. O arquivo Modulo05ExercicioRespostaDevelop.docx apresenta o procedimento realizado para esta etapa da atividade.
